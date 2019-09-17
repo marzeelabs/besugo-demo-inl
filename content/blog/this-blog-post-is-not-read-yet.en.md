@@ -5,4 +5,4 @@ image: /media/uploads/example.jpg
 people:
   - {}
 ---
-I just started this blog post, but haven't had time to finish yet. It will say a lot eventually.
+Bring the cursor over me to drag me to another column and show the action buttons. Click on me to edit me!
