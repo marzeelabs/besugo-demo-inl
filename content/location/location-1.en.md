@@ -3,8 +3,8 @@ i18nlanguage: en
 title: Location 1
 header: /media/uploads/example.jpg
 teaser: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua.
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+  incididunt ut labore et dolore magna aliquao.
 features:
   - icon: connection
     title: Wi-Fi
