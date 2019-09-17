@@ -1,6 +1,6 @@
 ---
 i18nlanguage: en
-title: This blog post is not read yet
+title: Amazing post 1 - This blog post is not read yet
 image: /media/uploads/example.jpg
 people:
   - {}
