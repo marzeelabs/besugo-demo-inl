@@ -1,0 +1,8 @@
+---
+i18nlanguage: en
+title: 'This post is finished, it''s waiting for someone to review'
+image: /media/uploads/example.jpg
+people:
+  - {}
+---
+There's lots of text in here. Trust me, I've spent weeks writing this post. It's an amazing post. It's the best post.
