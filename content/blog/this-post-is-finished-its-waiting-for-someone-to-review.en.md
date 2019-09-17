@@ -1,6 +1,6 @@
 ---
 i18nlanguage: en
-title: 'This post is finished, it''s waiting for someone to review'
+title: 'Amazing post 2 - This post is finished, it''s waiting for someone to review'
 image: /media/uploads/example.jpg
 people:
   - {}
