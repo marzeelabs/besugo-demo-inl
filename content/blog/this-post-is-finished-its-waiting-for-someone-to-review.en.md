@@ -5,4 +5,4 @@ image: /media/uploads/example.jpg
 people:
   - {}
 ---
-There's lots of text in here. Trust me, I've spent weeks writing this post. It's an amazing post. It's the best post.
+There's lots of text in here. Trust me, I've spent many seconds writing this post. It's an amazing post. It's the best post.
