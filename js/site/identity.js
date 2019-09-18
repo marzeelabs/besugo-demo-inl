@@ -1,6 +1,5 @@
-netlifyIdentity.on('login', () => {
-  const urlParams = new URLSearchParams(window.location.search);
-  if (urlParams.has('p')) {
+if (!netlifyIdentity.currentUser()) {
+  netlifyIdentity.on('login', () => {
     window.location = '/admin/';
-  }
-});
+  });
+}
