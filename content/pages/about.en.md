@@ -2,9 +2,8 @@
 i18nlanguage: en
 title: About us
 url: /about-us
+subtitle: 'Integer iaculis tortor ut magna suscipit, in suscipit su risus pharetra.'
 image: /media/uploads/example.jpg
-subtitle: Integer iaculis tortor ut magna suscipit, in suscipit risus pharetra.
-
 ---
 
 
